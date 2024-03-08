@@ -1,0 +1,17 @@
+{
+    "name": "<Ваше_имя>/homework-composer",
+    "description": "Домашнее задание по Composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "<Ваше_имя>",
+            "email": "email@example.com"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^1.1"
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
